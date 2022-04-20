@@ -2,5 +2,5 @@
  
 Source Link:
 
-https://github.com/arpit-jadon/FireNet-LightWeight-Network-for-Fire-Detection
-http://staff.ustc.edu.cn/~yfn/vsd.html
+1. https://github.com/arpit-jadon/FireNet-LightWeight-Network-for-Fire-Detection
+2. http://staff.ustc.edu.cn/~yfn/vsd.html
