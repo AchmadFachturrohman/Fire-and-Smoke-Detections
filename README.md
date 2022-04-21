@@ -1,6 +1,7 @@
 # Fire-and-Smoke-Data-Dummy
 
 This is Dataset Repository for Dangerous (Fire and Smoke) Detection based on Deep Learning.
+
 Source Link of "Training Dataset" are:
 
 1. https://github.com/arpit-jadon/FireNet-LightWeight-Network-for-Fire-Detection
