@@ -1,0 +1,26 @@
+<annotation>
+	<folder>all_images</folder>
+	<filename>fire00075.jpg</filename>
+	<path>D:\PROYEK\RealTimeObjectDetection\Tensorflow\workspace\images\all_images\fire00075.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1065</width>
+		<height>565</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>412</xmin>
+			<ymin>408</ymin>
+			<xmax>498</xmax>
+			<ymax>559</ymax>
+		</bndbox>
+	</object>
+</annotation>

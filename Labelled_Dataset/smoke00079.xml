@@ -1,0 +1,26 @@
+<annotation>
+	<folder>all_images</folder>
+	<filename>smoke00079.jpg</filename>
+	<path>D:\PROYEK\RealTimeObjectDetection\Tensorflow\workspace\images\all_images\smoke00079.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>310</width>
+		<height>163</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>86</xmin>
+			<ymin>2</ymin>
+			<xmax>131</xmax>
+			<ymax>95</ymax>
+		</bndbox>
+	</object>
+</annotation>
