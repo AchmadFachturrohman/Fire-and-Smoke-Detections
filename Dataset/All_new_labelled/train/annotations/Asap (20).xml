@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fire001</folder>
+	<filename>Asap (20).jpg</filename>
+	<path>C:\Users\Husein\Documents\Husein\Python\Deep Learning\Dataset\Fire\fire001\Asap (20).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>138</xmin>
+			<ymin>25</ymin>
+			<xmax>294</xmax>
+			<ymax>105</ymax>
+		</bndbox>
+	</object>
+</annotation>
