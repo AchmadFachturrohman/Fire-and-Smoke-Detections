@@ -1,4 +1,4 @@
-# Fire-and-Smoke-Data-Dummy
+# Fire-and-Smoke-Detections
 
 This is Dataset Repository for Dangerous (Fire and Smoke) Detection based on Deep Learning.
 
